@@ -1,0 +1,8 @@
+---
+collections:
+  - name: community.general
+  - name: ansible.posix
+
+roles:
+  - name: arillso.sshd
+    version: "2.0.0"
