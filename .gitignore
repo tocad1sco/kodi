@@ -1,7 +1,0 @@
-.vault_pass
-*.retry
-*.swp
-*.rsa
-*.bak
-collections/*
-debug.yml
